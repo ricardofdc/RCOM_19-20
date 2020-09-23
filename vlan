@@ -1,0 +1,279 @@
+
+Switch>
+Switch>
+Switch>
+Switch>
+Switch>enable
+Switch#8nortel
+Translating "8nortel"...domain server (172.16.1.1)
+% Unknown command or computer name, or unable to find computer address
+Switch#configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#vlan y1
+Command rejected: Bad VLAN list - character #1 is a non-numeric
+character ('y').
+Switch(config)#vlan y11 41
+Switch(config-vlan)#end
+Switch#
+*Mar  5 01:08:28.617: %SYS-5-CONFIG_I: Configured from console by consoleshow vlan id 41
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+41   VLAN0041                         active    
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+41   enet  100041     1500  -      -      -        -    -        0      0   
+
+Remote SPAN VLAN
+----------------
+Disabled
+
+Primary Secondary Type              Ports
+------- --------- ----------------- ------------------------------------------
+
+Switch#configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#interface fastethernet 0 1/13
+                                      ^
+% Invalid input detected at '^' marker.
+
+Switch(config)#interface fastethernet 1/13/13 0/13
+Switch(config-if)#einterface fastethernet 0/13nd1/13  end                        vlan 41       end
+Switch#configure terminalshow vlan id 41   
+*Mar  5 01:10:13.500: %SYS-5-CONFIG_I: Configured from console by console
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+41   VLAN0041                         active    
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+41   enet  100041     1500  -      -      -        -    -        0      0   
+
+Remote SPAN VLAN
+----------------
+Disabled
+
+Primary Secondary Type              Ports
+------- --------- ----------------- ------------------------------------------
+
+Switch#show vlan id 41configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#endinterface fastethernet 0/131/130/13
+Switch(config-if)#switchport mode acesscess
+Switch(config-if)#switchport access vlan 41
+Switch(config-if)#end
+Switch#
+*Mar  5 01:11:01.977: %SYS-5-CONFIG_I: Configured from console by console
+Switch#show runnig ng-if  config-  interface fasethernet 0stethernet 0ethernet 0ethernet 0/13
+Building configuration...
+
+Current configuration : 85 bytes
+!
+interface FastEthernet0/13
+ switchport access vlan 41
+ switchport mode access
+end
+
+Switch#show interfce  aces fastethernet 0/13 switchport
+Name: Fa0/13
+Switchport: Enabled
+Administrative Mode: static access
+Operational Mode: static access
+Administrative Trunking Encapsulation: negotiate
+Operational Trunking Encapsulation: native
+Negotiation of Trunking: Off
+Access Mode VLAN: 41 (VLAN0041)
+Trunking Native Mode VLAN: 1 (default)
+Administrative Native VLAN tagging: enabled
+Voice VLAN: none
+Administrative private-vlan host-association: none 
+Administrative private-vlan mapping: none 
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk Native VLAN tagging: enabled
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk associations: none
+Administrative private-vlan trunk mappings: none
+Operational private-vlan: none
+Trunking VLANs Enabled: ALL
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+ --More--         Capture VLANs Allowed: ALL
+ --More--         
+ --More--         Protected: false
+ --More--         Unknown unicast blocked: disabled
+ --More--         Unknown multicast blocked: disabled
+ --More--         Appliance trust: none
+Switch#
+Switch#
+Switch#configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#vlan 40
+Switch(config-vlan)#ebn  nd
+Switch#show
+*Mar  5 01:13:08.746: %SYS-5-CONFIG_I: Configured from console by console vlan id 40
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+40   VLAN0040                         active    
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+40   enet  100040     1500  -      -      -        -    -        0      0   
+
+Remote SPAN VLAN
+----------------
+Disabled
+
+Primary Secondary Type              Ports
+------- --------- ----------------- ------------------------------------------
+
+Switch#show vlan id 40 1
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+41   VLAN0041                         active    Fa0/13
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+41   enet  100041     1500  -      -      -        -    -        0      0   
+
+Remote SPAN VLAN
+----------------
+Disabled
+
+Primary Secondary Type              Ports
+------- --------- ----------------- ------------------------------------------
+
+Switch#show vlan id 410configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#interface fastethernet 0/13  5
+Switch(config-if)#switcport        chtchch mopde   de access
+Switch(config-if)#switch mode access           access vp access vo access vr access vt access v  access vm access vo access vd access ve access v access v 
+Switch(config-if)#switchport mode access  access   access   access   access  access   access v vlan 40
+Switch(config-if)#end
+Switch#
+*Mar  5 01:15:28.139: %SYS-5-CONFIG_I: Configured from console by console
+Switch#show runni          configure terminal 
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#end   interface fastethernet 0/1
+Switch(config-if)#interface fastethernet 0/1end                       switchport access vlan 40mode access   
+Switch(config-if)#switchport mode access interface fastethernet 0/1end                       switchport access vlan 40
+Switch(config-if)#end
+Switch#
+*Mar  5 01:16:09.554: %SYS-5-CONFIG_I: Configured from console by consoleshow      
+Switch#show runnig ng-config interface fast tethernet 0/5
+Building configuration...
+
+Current configuration : 84 bytes
+!
+interface FastEthernet0/5
+ switchport access vlan 40
+ switchport mode access
+end
+
+Switch#show running-config interface fastethernet 0/5 1
+Building configuration...
+
+Current configuration : 84 bytes
+!
+interface FastEthernet0/1
+ switchport access vlan 40
+ switchport mode access
+end
+
+Switch#show interfacees fastethernetees fastethernet cees fastethernetes fastethernet es fastethernet 0' /1 switchport
+Name: Fa0/1
+Switchport: Enabled
+Administrative Mode: static access
+Operational Mode: static access
+Administrative Trunking Encapsulation: negotiate
+Operational Trunking Encapsulation: native
+Negotiation of Trunking: Off
+Access Mode VLAN: 40 (VLAN0040)
+Trunking Native Mode VLAN: 1 (default)
+Administrative Native VLAN tagging: enabled
+Voice VLAN: none
+Administrative private-vlan host-association: none 
+Administrative private-vlan mapping: none 
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk Native VLAN tagging: enabled
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk associations: none
+Administrative private-vlan trunk mappings: none
+Operational private-vlan: none
+Trunking VLANs Enabled: ALL
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+ --More--         
+Switch#[AA  
+Switch#show interfaces fastethernet 0/1 switchport1 switchport 5 switchport
+Name: Fa0/5
+Switchport: Enabled
+Administrative Mode: static access
+Operational Mode: static access
+Administrative Trunking Encapsulation: negotiate
+Operational Trunking Encapsulation: native
+Negotiation of Trunking: Off
+Access Mode VLAN: 40 (VLAN0040)
+Trunking Native Mode VLAN: 1 (default)
+Administrative Native VLAN tagging: enabled
+Voice VLAN: none
+Administrative private-vlan host-association: none 
+Administrative private-vlan mapping: none 
+Administrative private-vlan trunk native VLAN: none
+Administrative private-vlan trunk Native VLAN tagging: enabled
+Administrative private-vlan trunk encapsulation: dot1q
+Administrative private-vlan trunk normal VLANs: none
+Administrative private-vlan trunk associations: none
+Administrative private-vlan trunk mappings: none
+Operational private-vlan: none
+Trunking VLANs Enabled: ALL
+Pruning VLANs Enabled: 2-1001
+Capture Mode Disabled
+ --More--         Capture VLANs Allowed: ALL
+ --More--         
+ --More--         Protected: false
+ --More--         Unknown unicast blocked: disabled
+ --More--         Unknown multicast blocked: disabled
+ --More--         Appliance trust: none
+Switch#
+Switch#
+Switch#show vlan id 40
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+40   VLAN0040                         active    Fa0/1, Fa0/5
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+40   enet  100040     1500  -      -      -        -    -        0      0   
+
+Remote SPAN VLAN
+----------------
+Disabled
+
+Primary Secondary Type              Ports
+------- --------- ----------------- ------------------------------------------
+
+Switch#show vlan id 40 1
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+41   VLAN0041                         active    Fa0/13
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+41   enet  100041     1500  -      -      -        -    -        0      0   
+
+Remote SPAN VLAN
+----------------
+Disabled
+
+Primary Secondary Type              Ports
+------- --------- ----------------- ------------------------------------------
+
+Switch#

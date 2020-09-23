@@ -1,0 +1,5 @@
+pasv response:
+"Yes, you've got (213,229,112,130,216,4) as a result. 
+213,229,112,130 is IP address. 216 is upper 8bits in decimal. 
+4 is lower 8bits in decimal. 
+So port number is 216 * 256 + 4. You should parse them in bracket."

@@ -1,0 +1,707 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 1: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.322571112    Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 2: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.999966677    G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 3: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 1.999962363    G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 4: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 2.327253446    Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 5: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 4.332287414    Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 6: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 5.211209968    G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 7: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 6.207970832    G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 8: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 6.337090862    Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 9: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 7.207969776    G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 10: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 8.309241982    Cisco_d4:1c:03        Cisco_d4:1c:03        LOOP     60     Reply
+
+Frame 11: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:03 (30:37:a6:d4:1c:03), Dst: Cisco_d4:1c:03 (30:37:a6:d4:1c:03)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 8.341993051    Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 12: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 10.216295985   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 13: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 10.346775984   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 14: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 11.215972084   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 15: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 12.215972031   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 16: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 12.351586655   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 17: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 14.356481507   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 18: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 15.221358605   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 19: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 16.219971696   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 20: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 16.361315747   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 21: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 17.219967384   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 22: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 18.311673840   Cisco_d4:1c:03        Cisco_d4:1c:03        LOOP     60     Reply
+
+Frame 23: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:03 (30:37:a6:d4:1c:03), Dst: Cisco_d4:1c:03 (30:37:a6:d4:1c:03)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 18.366189254   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 24: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 19.224086860   172.16.40.1           172.16.40.254         ICMP     98     Echo (ping) request  id=0x1501, seq=1/256, ttl=64 (reply in 26)
+
+Frame 25: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Internet Protocol Version 4, Src: 172.16.40.1, Dst: 172.16.40.254
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 19.224464468   172.16.40.254         172.16.40.1           ICMP     98     Echo (ping) reply    id=0x1501, seq=1/256, ttl=64 (request in 25)
+
+Frame 26: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Internet Protocol Version 4, Src: 172.16.40.254, Dst: 172.16.40.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 20.224005038   172.16.40.1           172.16.40.254         ICMP     98     Echo (ping) request  id=0x1501, seq=2/512, ttl=64 (reply in 28)
+
+Frame 27: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Internet Protocol Version 4, Src: 172.16.40.1, Dst: 172.16.40.254
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 20.224190969   172.16.40.254         172.16.40.1           ICMP     98     Echo (ping) reply    id=0x1501, seq=2/512, ttl=64 (request in 27)
+
+Frame 28: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Internet Protocol Version 4, Src: 172.16.40.254, Dst: 172.16.40.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 20.226284996   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 29: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 20.370981601   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 30: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 21.223977297   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 31: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 21.224125959   172.16.40.1           172.16.40.254         ICMP     98     Echo (ping) request  id=0x1501, seq=3/768, ttl=64 (reply in 33)
+
+Frame 32: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Internet Protocol Version 4, Src: 172.16.40.1, Dst: 172.16.40.254
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 21.224344442   172.16.40.254         172.16.40.1           ICMP     98     Echo (ping) reply    id=0x1501, seq=3/768, ttl=64 (request in 32)
+
+Frame 33: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Internet Protocol Version 4, Src: 172.16.40.254, Dst: 172.16.40.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 22.223969099   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 34: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 22.224031620   172.16.40.1           172.16.40.254         ICMP     98     Echo (ping) request  id=0x1501, seq=4/1024, ttl=64 (reply in 36)
+
+Frame 35: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Internet Protocol Version 4, Src: 172.16.40.1, Dst: 172.16.40.254
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 22.224405731   172.16.40.254         172.16.40.1           ICMP     98     Echo (ping) reply    id=0x1501, seq=4/1024, ttl=64 (request in 35)
+
+Frame 36: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Internet Protocol Version 4, Src: 172.16.40.254, Dst: 172.16.40.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 22.375869779   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 37: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 23.224013994   172.16.40.1           172.16.40.254         ICMP     98     Echo (ping) request  id=0x1501, seq=5/1280, ttl=64 (reply in 39)
+
+Frame 38: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Internet Protocol Version 4, Src: 172.16.40.1, Dst: 172.16.40.254
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 23.224382889   172.16.40.254         172.16.40.1           ICMP     98     Echo (ping) reply    id=0x1501, seq=5/1280, ttl=64 (request in 38)
+
+Frame 39: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Internet Protocol Version 4, Src: 172.16.40.254, Dst: 172.16.40.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 24.221948958   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 40: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 24.223992329   172.16.40.1           172.16.40.254         ICMP     98     Echo (ping) request  id=0x1501, seq=6/1536, ttl=64 (reply in 42)
+
+Frame 41: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Internet Protocol Version 4, Src: 172.16.40.1, Dst: 172.16.40.254
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 24.224246276   172.16.40.254         172.16.40.1           ICMP     98     Echo (ping) reply    id=0x1501, seq=6/1536, ttl=64 (request in 41)
+
+Frame 42: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Internet Protocol Version 4, Src: 172.16.40.254, Dst: 172.16.40.1
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 24.231955685   G-ProCom_8c:af:af     HewlettP_5a:7b:ea     ARP      42     Who has 172.16.40.254? Tell 172.16.40.1
+
+Frame 43: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 24.232208529   HewlettP_5a:7b:ea     G-ProCom_8c:af:af     ARP      60     172.16.40.254 is at 00:21:5a:5a:7b:ea
+
+Frame 44: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Address Resolution Protocol (reply)
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 24.380593053   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 45: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 24.391275314   HewlettP_5a:7b:ea     G-ProCom_8c:af:af     ARP      60     Who has 172.16.40.1? Tell 172.16.40.254
+
+Frame 46: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea), Dst: G-ProCom_8c:af:af (00:0f:fe:8c:af:af)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 24.391297880   G-ProCom_8c:af:af     HewlettP_5a:7b:ea     ARP      42     172.16.40.1 is at 00:0f:fe:8c:af:af
+
+Frame 47: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: HewlettP_5a:7b:ea (00:21:5a:5a:7b:ea)
+Address Resolution Protocol (reply)
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 25.219968114   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 48: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 26.219969688   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 49: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 26.385448207   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 50: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 28.315857245   Cisco_d4:1c:03        Cisco_d4:1c:03        LOOP     60     Reply
+
+Frame 51: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:03 (30:37:a6:d4:1c:03), Dst: Cisco_d4:1c:03 (30:37:a6:d4:1c:03)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 28.390425907   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 52: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 29.227062107   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 53: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 29.274866046   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 54: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 30.223965650   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 55: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 30.271959560   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 56: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 30.395145516   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 57: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 31.223971644   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 58: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 31.271965479   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 59: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 32.289213643   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 60: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 32.400000987   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 61: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 33.287970187   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 62: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 34.232130972   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 63: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 34.287959623   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 64: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 34.409968064   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 65: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 35.231965599   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 66: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 35.305252589   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 67: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 35.671822124   Cisco_d4:1c:03        CDP/VTP/DTP/PAgP/UDLD CDP      449    Device ID: Switch  Port ID: FastEthernet0/1  
+
+Frame 68: 449 bytes on wire (3592 bits), 449 bytes captured (3592 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 36.231982913   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 69: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 36.303959523   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 70: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 36.409818849   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 71: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 37.303963702   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 72: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 38.320163990   Cisco_d4:1c:03        Cisco_d4:1c:03        LOOP     60     Reply
+
+Frame 73: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:03 (30:37:a6:d4:1c:03), Dst: Cisco_d4:1c:03 (30:37:a6:d4:1c:03)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 38.321239291   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 74: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 38.414499134   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 75: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 39.237194021   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 76: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 39.319965288   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 77: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 40.235963869   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 78: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 40.319966075   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 79: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 40.419386952   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 80: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 41.235984790   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.254? Tell 172.16.40.1
+
+Frame 81: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 41.337280147   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 82: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 42.335962217   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 83: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 42.424221443   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 84: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 43.335974359   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 85: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 44.242307470   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 86: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 44.353228718   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 87: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 44.429080009   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 88: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 45.239996466   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 89: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 45.351973776   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 90: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 46.239976181   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.40.1
+
+Frame 91: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     92 46.351964563   G-ProCom_8c:af:af     Broadcast             ARP      42     Who has 172.16.41.1? Tell 172.16.40.1
+
+Frame 92: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: G-ProCom_8c:af:af (00:0f:fe:8c:af:af), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 46.434145671   Cisco_d4:1c:03        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/40/30:37:a6:d4:1c:00  Cost = 0  Port = 0x8003
+
+Frame 93: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol

@@ -1,0 +1,545 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 1: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.013397863    Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 2: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 1.019869286    HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 3: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 2.023303661    Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 4: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 2.043873107    HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 5: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 4.023193173    Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 6: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 5.005171817    HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 7: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 6.011870154    HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 8: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 6.028060202    Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 9: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 7.035872927    HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 10: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 8.033013067    Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 11: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 8.159670863    Cisco_d4:1c:0f        Cisco_d4:1c:0f        LOOP     60     Reply
+
+Frame 12: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f), Dst: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 10.010335113   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 13: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 10.037835607   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 14: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 11.035869296   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 15: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 12.059870323   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 16: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 12.070321792   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 17: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 14.072774129   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 18: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 15.015969209   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 19: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 15.099927442   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 20: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 16.027870513   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 21: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 16.077682434   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 22: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 16.123861980   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 23: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 17.051872518   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 24: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 17.147870899   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 25: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 18.082573839   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 26: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 18.173073406   Cisco_d4:1c:0f        Cisco_d4:1c:0f        LOOP     60     Reply
+
+Frame 27: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f), Dst: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 19.149096753   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 28: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 20.021132226   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 29: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 20.087474462   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 30: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 20.155870869   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 31: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 21.051869236   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 32: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 21.179869451   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 33: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 22.075867888   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 34: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 22.092344914   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 35: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 22.203931101   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 36: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 23.227868083   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 37: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 24.097226191   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 38: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 24.251867224   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 39: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 25.026304532   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 40: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 26.043870942   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 41: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 26.102110751   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 42: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 26.245041077   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 43: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 27.071863818   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 44: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 27.259873899   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 45: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 28.106990561   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 46: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 28.170344078   Cisco_d4:1c:0f        Cisco_d4:1c:0f        LOOP     60     Reply
+
+Frame 47: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f), Dst: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 28.283867872   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.41.255? Tell 172.16.41.1
+
+Frame 48: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 29.753597158   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 49: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 30.031447156   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 50: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 30.111957464   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 51: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 30.779876967   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 52: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 31.035862103   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 53: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 31.803877086   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 54: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 32.059862431   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 55: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 32.122090736   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 56: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 32.206223781   Cisco_d4:1c:0f        CDP/VTP/DTP/PAgP/UDLD CDP      450    Device ID: Switch  Port ID: FastEthernet0/13  
+
+Frame 57: 450 bytes on wire (3600 bits), 450 bytes captured (3600 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Cisco Discovery Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 32.828049852   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 58: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 33.851864194   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 59: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 34.121698926   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 60: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 34.875870249   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 61: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 35.036542147   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 62: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 36.059865923   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 63: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 36.126565048   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 64: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 36.869013721   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 65: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 37.083869325   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 66: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 37.883864213   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 67: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 38.131440947   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 68: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 38.174490625   Cisco_d4:1c:0f        Cisco_d4:1c:0f        LOOP     60     Reply
+
+Frame 69: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f), Dst: Cisco_d4:1c:0f (30:37:a6:d4:1c:0f)
+Configuration Test Protocol (loopback)
+Data (40 bytes)
+
+0000  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0010  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0020  00 00 00 00 00 00 00 00                           ........
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 38.907876763   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.40.255? Tell 172.16.41.1
+
+Frame 70: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 40.041693501   HewlettP_d7:45:c4     Broadcast             ARP      42     Who has 172.16.1.1? Tell 172.16.41.1
+
+Frame 71: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: HewlettP_d7:45:c4 (00:1f:29:d7:45:c4), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 40.136358681   Cisco_d4:1c:0f        Spanning-tree-(for-bridges)_00 STP      60     Conf. Root = 32768/41/30:37:a6:d4:1c:00  Cost = 0  Port = 0x800f
+
+Frame 72: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+IEEE 802.3 Ethernet 
+Logical-Link Control
+Spanning Tree Protocol
